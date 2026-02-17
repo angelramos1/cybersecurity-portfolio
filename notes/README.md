@@ -8,7 +8,7 @@ This folder contains my notes on cybersecurity concepts, tools, and techniques l
 
 ### ✅ Completed Courses
 
-**[Course 1: Foundations of Cybersecurity](google-cert-course-1.md)**
+**[Course 1: Foundations of Cybersecurity](google-cybersecurity-course-1.md)**
 - Introduction to cybersecurity
 - Security analyst responsibilities and skills
 - Threat actors and attack types (phishing, malware, social engineering)
